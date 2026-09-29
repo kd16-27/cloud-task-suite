@@ -1,0 +1,6 @@
+{
+  "status": "blocked",
+  "reason": "Chromium launch failed: process_singleton_posix socket() Operation not permitted in build environment.",
+  "script": "tests/browser_smoke.cjs",
+  "claims": "No browser, screenshot, responsive-layout, or visual verification claimed."
+}
